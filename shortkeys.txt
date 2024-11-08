@@ -1,0 +1,45 @@
+[
+  {
+    "key": "ctrl+shift+1",
+    "label": "1x speed",
+    "action": "javascript",
+    "blacklist": false,
+    "code": "document.getElementsByTagName(\"video\")[0].playbackRate = 1",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+shift+2",
+    "label": "2x speed",
+    "action": "javascript",
+    "code": "document.getElementsByTagName(\"video\")[0].playbackRate = 2",
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+shift+3",
+    "label": "3x speed",
+    "action": "javascript",
+    "code": "document.getElementsByTagName(\"video\")[0].playbackRate = 3",
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+shift+4",
+    "action": "javascript",
+    "label": "10x",
+    "code": "document.getElementsByTagName(\"video\")[0].playbackRate = 10",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  }
+]

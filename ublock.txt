@@ -1,0 +1,119 @@
+youtube.com##.ytd-consent-bump-lightbox
+youtube.com##.opened
+! Banners
+www.youtube.com##.ytd-statement-banner-renderer.style-scope
+
+! 2021-12-11 https://www.youtube.com
+www.youtube.com##.ytd-brand-video-shelf-renderer.style-scope
+
+! 2021-12-13 https://www.youtube.com
+www.youtube.com##.ytd-mealbar-promo-renderer.style-scope
+
+! 2021-12-21 https://www.youtube.com
+www.youtube.com###voice-search-button
+
+! 2022-01-15 https://brightspace.carleton.ca
+brightspace.carleton.ca###d2l_1_79_263
+
+! 2022-01-17 https://www.youtube.com
+www.youtube.com###clarify-box
+
+! 2022-01-18 https://brightspace.carleton.ca
+brightspace.carleton.ca##div.d2l-page-message-container
+
+! 2022-01-25 https://www.youtube.com
+www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+
+! 2022-02-19 https://www.youtube.com
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
+
+! 2022-02-27 https://www.youtube.com
+www.youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
+
+! 2022-04-09 https://myanimelist.net
+myanimelist.net##.mal-side-koukoku--l.mal-side-koukoku
+||myanimelist.net/c/i/images/event/NN_20220408_PDA/PDA_PC_right.png$image
+
+! 2022-05-13 https://www.youtube.com
+www.youtube.com###content > .yt-related-chip-cloud-renderer.style-scope
+
+! 2022-06-08 https://www.youtube.com
+www.youtube.com##ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope:nth-of-type(2)
+
+! 2022-08-30 https://www.textnow.com
+||static.textnow.com/web_sales/non-sale/Web_Banner_FreeNationwide_3.jpg$image
+www.textnow.com###modal > .modal-dialog > .modal-content
+
+! 2022-09-09 https://www.youtube.com
+www.youtube.com##ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope:nth-of-type(3)
+
+! 2022-09-21 https://www.kijiji.ca
+www.kijiji.ca##div.third-party.regular-ad.cas-channel.search-item > .clearfix
+www.kijiji.ca##div.top-feature.search-item
+
+! 2022-11-01 https://www.youtube.com
+www.youtube.com###flexible-item-buttons > ytd-button-renderer.ytd-menu-renderer.style-scope:nth-of-type(1) > yt-button-shape
+www.youtube.com##ytd-button-renderer.ytd-menu-renderer.style-scope:nth-of-type(2)
+
+! 2022-11-12 https://www.youtube.com
+www.youtube.com##.paper-toast-open.yt-notification-action-renderer.style-scope.toast-button
+
+! 2022-11-18 https://www.youtube.com
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
+
+! 2022-12-02 https://twitter.com
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr.r-g2wdr4.css-1dbjc4n:nth-of-type(2) > .css-1dbjc4n
+twitter.com##.r-1ny4l3l.r-1adg3ll.r-qklmqi.r-1igl3o0.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > div.css-1dbjc4n > .r-6416eg.r-o7ynqc.r-i023vh.r-1qhn6m8.r-1udh08x.r-1ny4l3l.r-18u37iz.r-1loqt21.css-1dbjc4n
+
+! 2023-03-12 https://www.youtube.com
+!www.youtube.com##ytd-popup-container.ytd-app.style-scope
+
+! 2023-10-20 https://twitter.com
+twitter.com##.css-1dbjc4n > div.r-1ny4l3l.r-1adg3ll.css-1dbjc4n
+
+! 2023-10-30 https://www.youtube.com
+www.youtube.com###savefrom__yt_btn
+
+! 2023-11-26 https://twitter.com
+twitter.com##div.r-14wv3jr.r-g2wdr4.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.css-175oi2r:nth-of-type(4)
+twitter.com##div.r-14wv3jr.r-g2wdr4.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.css-175oi2r:nth-of-type(3)
+twitter.com##div.r-14wv3jr.r-g2wdr4.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.css-175oi2r:nth-of-type(5)
+twitter.com##div.r-14wv3jr.r-g2wdr4.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.css-175oi2r:nth-of-type(5)
+
+! 2023-12-17 https://www.youtube.com
+www.youtube.com##yt-button-view-model.ytd-menu-renderer.style-scope:nth-of-type(1)
+
+! 2024-03-17 https://www.youtube.com
+www.youtube.com##.ytd-in-feed-ad-layout-renderer.style-scope
+
+! 2024-04-20 https://twitter.com
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
+
+! 2024-04-24 https://twitter.com
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r
+
+! 2024-05-18 https://x.com
+x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
+x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(3)
+
+! 2024-05-24 https://www.youtube.com
+www.youtube.com##.ytd-video-owner-renderer.style-scope > yt-button-shape
+
+! Jun 14, 2024 https://x.com
+x.com##.r-ttdzmv.r-vacyoi.css-175oi2r > div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r
+
+! Jun 29, 2024 https://x.com
+x.com##.r-5kkj8d.r-153w4nv.r-kemksi.css-175oi2r
+
+! Aug 4, 2024 https://www.youtube.com
+www.youtube.com##.ytp-paid-content-overlay
+
+www.youtube.com##.ytm-paid-content-overlay-renderer.YtmPaidContentOverlayHost
+www.youtube.com##.ytm-paid-content-overlay-renderer
+www.youtube.com##.YtmPaidContentOverlayHost
+
+! Oct 18, 2024 https://www.youtube.com
+www.youtube.com###background
+
+
