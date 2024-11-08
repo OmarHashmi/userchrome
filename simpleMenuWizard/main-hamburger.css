@@ -1,11 +1,12 @@
 /*AGENT_SHEET*/
 
 /*********************************************************************************************
-  simpleMenuWizard: Firefox 89+ userChrome.css tweaks to remove context menu items.
+  simpleMenuWizard: userChrome.css tweaks to remove context menu items in Firefox.
   https://github.com/stonecrusher/simpleMenuWizard
 **********************************************************************************************
 
 /*** main-hamburger.css ***/
+/*** When left-clicking on the hamburger menu on top right ***/
 
 /* #appMenu-proton-update-banner,                     /* Downloading Firefox update / 
                                                          Update available — download now / 
@@ -13,12 +14,12 @@
                                                          Update available — restart now */
 /* #appMenu-fxa-status2,                              /* Sync and save data / Sign In  */
 /* #appMenu-fxa-separator,                            /*********** Separator ***********/
-#appMenu-new-tab-button2,                          /* New Tab                       */
-#appMenu-new-window-button2,                       /* New Window                    */
-#appMenu-new-private-window-button2,               /* New Private Window            */
-#appMenu-new-private-window-button2
+/* #appMenu-new-tab-button2,                          /* New Tab                       */
+/* #appMenu-new-window-button2,                       /* New Window                    */
+/* #appMenu-new-private-window-button2,               /* New Private Window            */
+/* #appMenu-new-private-window-button2
        + toolbarseparator,                            /*********** Separator ***********/
-#appMenu-bookmarks-button,                         /* Bookmarks                     */
+/* #appMenu-bookmarks-button,                         /* Bookmarks                     */
 /* #panelMenuBookmarkThisPage,                            /* Bookmark Current Tab          */
 /* #panelMenu_searchBookmarks,                            /* Search Bookmarks              */
 /* #panelMenu_viewBookmarksToolbar,                       /* Show Bookmarks Toolbar        */
@@ -38,19 +39,18 @@
 /* #appMenu_historyMenu,                                  /* Recent History (list)         */
 /* #appMenu_historyMenu + toolbarseparator,               /*********** Separator ***********/
 /* #PanelUI-historyMore,                                  /* Manage History                */
-#appMenu-downloads-button,                         /* Downloads                     */
-#appMenu-passwords-button,                         /* Passwords                     */
-#appMenu-extensions-themes-button,                 /* Add-ons and Themes            */
-#appMenu-extensions-themes-button
+/* #appMenu-downloads-button,                         /* Downloads                     */
+/* #appMenu-passwords-button,                         /* Passwords                     */
+/* #appMenu-extensions-themes-button,                 /* Add-ons and Themes            */
+/* #appMenu-extensions-themes-button
        + toolbarseparator,                            /*********** Separator ***********/
-#appMenu-print-button2,                            /* Print…                        */
-#appMenu-save-file-button2,                        /* Save Page As…                 */
-#appMenu-find-button2,                             /* Find In Page…                 */
-
-#appMenu-zoom-controls2,                           /* Zoom                          */
-#appMenu-zoom-controls2 + toolbarseparator,        /*********** Separator ***********/
+/* #appMenu-print-button2,                            /* Print…                        */
+/* #appMenu-save-file-button2,                        /* Save Page As…                 */
+/* #appMenu-find-button2,                             /* Find In Page…                 */
+/* #appMenu-zoom-controls,                            /* Zoom                          */
+/* #appMenu-zoom-controls + toolbarseparator,         /*********** Separator ***********/
 /* #appMenu-settings-button,                          /* Settings                      */
-#appMenu-more-button2,                             /* More Tools                    */
+/* #appMenu-more-button2,                             /* More Tools                    */
 /* #appmenu-moreTools-button,                             /* Customize Toolbar…            */
 /* #appmenu-moreTools-button + toolbarseparator,          /*********** Separator ***********/
 /* #appmenu-developer-tools,                              /* Browser Tools (label)         */
@@ -79,7 +79,7 @@
 /* #appmenu-developer-tools-view
        > toolbarbutton[key="key_viewSource"]
        + toolbarbutton,                                   /* Extensions for Developers     */
-#appMenu-help-button2,                             /* Help                          */
+/* #appMenu-help-button2,                             /* Help                          */
 /* #PanelUI-helpItems > #appMenu_menu_openHelp,           /* Get Help                         */
 /* #PanelUI-helpItems > #appMenu_feedbackPage,            /* Submit Feedback…                 */
 /* #PanelUI-helpItems > #appMenu_helpSafeMode,            /* Troubleshoot Mode…               */
@@ -87,9 +87,10 @@
 /* #PanelUI-helpItems > #appMenu_help_reportSiteIssue,    /* Report Site Issue…               */
 /* #PanelUI-helpItems
        > #appMenu_menu_HelpPopup_reportPhishingtoolmenu,  /* Report Deceptive Site…           */
+/* #PanelUI-helpItems > #appMenu_helpSwitchDevice,        /* Switching to a new device        */
 /* #PanelUI-helpItems > #appMenu_aboutName,               /* About Firefox                    */
-#appMenu-help-button2 + toolbarseparator,          /*********** Separator ***********/
-#appMenu-quit-button2,                             /* Exit                          */
+/* #appMenu-help-button2 + toolbarseparator,          /*********** Separator ***********/
+/* #appMenu-quit-button2,                             /* Exit                          */
 
 #leave_this_dummy_here
     { display:none !important; }
