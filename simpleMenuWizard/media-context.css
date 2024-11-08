@@ -1,16 +1,17 @@
 /*AGENT_SHEET*/
 
 /*********************************************************************************************
-  simpleMenuWizard: Firefox 89+ userChrome.css tweaks to remove context menu items.
+  simpleMenuWizard: userChrome.css tweaks to remove context menu items in Firefox.
   https://github.com/stonecrusher/simpleMenuWizard
 **********************************************************************************************
 
 /*** media-context.css ***/
+/*** When right-clicking on media like audio or html5 video ***/
 
 #context-media-play,                  /* Play                            */
 #context-media-pause,                 /* Pause                           */
-#context-media-mute,                  /* Mute                            */
-#context-media-unmute,                /* Unmute                          */
+/* #context-media-mute,                  /* Mute                            */
+/* #context-media-unmute,                /* Unmute                          */
 /* #context-media-playbackrate,          /* Speed                           */
 /* #context-media-playbackrate-050x,         /* 0.5×                            */
 /* #context-media-playbackrate-100x,         /* 1.0×                            */
@@ -22,15 +23,15 @@
 #context-video-fullscreen,            /* Full Screen                     */
 #context-media-hidecontrols,          /* Hide Controls                   */
 #context-media-showcontrols,          /* Show Controls                   */
-#context-media-sep-video-commands,    /************ Separator ************/
-#context-viewvideo,                   /* Open Video in New Tab           */
+/* #context-media-sep-video-commands,    /************ Separator ************/
+/* #context-viewvideo,                   /* Open Video in New Tab           */
 #context-video-pictureinpicture,      /* Watch in Picture-in-Picture     */
 /* #context-media-sep-commands,          /************ Separator ************/
 #context-video-saveimage,             /* Take Snapshot…                  */
 /* #context-savevideo,                   /* Save Video As…                  */
 /* #context-saveaudio,                   /* Save Audio As…                  */
-#context-copyvideourl,                /* Copy Video Link                 */
-#context-copyaudiourl,                /* Copy Audio Link                 */
+/* #context-copyvideourl,                /* Copy Video Link                 */
+/* #context-copyaudiourl,                /* Copy Audio Link                 */
 #context-sendvideo,                   /* Email Video…                    */
 #context-sendaudio,                   /* Email Audio…                    */
 /* #context-sep-setbackground,           /************ Separator ************/
